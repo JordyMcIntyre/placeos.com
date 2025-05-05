@@ -98,7 +98,7 @@ ul.pagination {
 
 .book-menu {
   flex: 0 0 $menu-width;
-  font-size: $font-size-14;
+  font-size: $font-size-8;
 
   .book-menu-content {
     width: $menu-width;
@@ -287,6 +287,7 @@ body[dir="rtl"] .book-menu {
   transition-property: transform, margin, opacity, visibility;
   will-change: transform, margin, opacity;
 }
+
 
 @media screen and (max-width: $mobile-breakpoint) {
   #menu-control,

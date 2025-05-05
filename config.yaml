@@ -1,4 +1,6 @@
-baseURL: https://amethyst.bencuan.me
+baseURL: "https://placeos.com/"
+languageCode: "en-us"
+title: "PlaceOS"
 
 # Book configuration
 disablePathToLower: true
@@ -30,11 +32,11 @@ menu:
 
 params:
 
-  name: Ben Cuan
-  title: 📓 Amethyst
+  name: PlaceOS
+  title: PlaceOS
 
   # OPTIONAL: custom favicon location
-  # favicon: 'location/to/favicon.png'
+  # favicon: /images/PlaceOS-Favicon.png
 
   # whether to display on-hover link preview cards
   enableLinkPreview: true

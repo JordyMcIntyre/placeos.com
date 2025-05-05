@@ -1,71 +1,35 @@
 ---
 weight: 1
 bookCollapseSection: true
-title: "Example Site"
+title: "PlaceOS - Connect and control your building systems."
+description: "An open platform to integrate access, AV, sensors, and services—built for HR, IT, and Facilities to run operations at scale."
 ---
 
-# Introduction
+## Zones.
 
-## Ferre hinnitibus erat accipitrem dixi Troiae tollens
+Logical boundaries for physical spaces. Everything is scoped: buildings, levels, rooms. Zones allow you to apply rules, visualize usage, and automate outcomes at the right scale.
 
-Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
-inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
-non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
-novabis fallit de nubibus atque silvas mihi. **Dixit repetitaque Quid**; verrit
-longa; sententia [mandat](http://pastor-ad.io/questussilvas) quascumque nescio
-solebat [litore](http://lacrimas-ab.net/); noctes. *Hostem haerentem* circuit
-[plenaque tamen](http://www.sine.io/in).
+## Hierarchy.
 
-- Pedum ne indigenae finire invergens carpebat
-- Velit posses summoque
-- De fumos illa foret
+A structured system where zones contain modules, modules expose functions, and interfaces let people or systems interact. Everything belongs somewhere.
 
-## Est simul fameque tauri qua ad
+## Modules.
 
-Locum nullus nisi vomentes. Ab Persea sermone vela, miratur aratro; eandem
-Argolicas gener.
+PlaceOS connects to building systems using modular drivers. Each module exposes a standard API so devices and platforms are controlled the same way—regardless of vendor.
 
-## Me sol
+## Inputs & Outputs.
 
-Nec dis certa fuit socer, Nonacria **dies** manet tacitaque sibi? Sucis est
-iactata Castrumque iudex, et iactato quoque terraeque es tandem et maternos
-vittis. Lumina litus bene poenamque animos callem ne tuas in leones illam dea
-cadunt genus, et pleno nunc in quod. Anumque crescentesque sanguinis
-[progenies](http://www.late.net/alimentavirides) nuribus rustica tinguet. Pater
-omnes liquido creditis noctem.
+Sensors, schedules, button presses, badge scans—any of these can trigger automation. Outputs can be system actions, device commands, or service integrations.
 
-    if (mirrored(icmp_dvd_pim, 3, smbMirroredHard) != lion(clickImportQueue,
-            viralItunesBalancing, bankruptcy_file_pptp)) {
-        file += ip_cybercrime_suffix;
-    }
-    if (runtimeSmartRom == netMarketingWord) {
-        virusBalancingWin *= scriptPromptBespoke + raster(post_drive,
-                windowsSli);
-        cd = address_hertz_trojan;
-        soap_ccd.pcbServerGigahertz(asp_hardware_isa, offlinePeopleware, nui);
-    } else {
-        megabyte.api = modem_flowchart - web + syntaxHalftoneAddress;
-    }
-    if (3 < mebibyteNetworkAnimated) {
-        pharming_regular_error *= jsp_ribbon + algorithm * recycleMediaKindle(
-                dvrSyntax, cdma);
-        adf_sla *= hoverCropDrive;
-        templateNtfs = -1 - vertical;
-    } else {
-        expressionCompressionVariable.bootMulti = white_eup_javascript(
-                table_suffix);
-        guidPpiPram.tracerouteLinux += rtfTerabyteQuicktime(1,
-                managementRosetta(webcamActivex), 740874);
-    }
-    var virusTweetSsl = nullGigo;
+## Automation.
 
-## Trepident sitimque
+The real engine behind PlaceOS. You can create rules that act on events, time, context, and state. Run workflows, trigger APIs, or combine multiple outcomes across modules.
 
-Sentiet et ferali errorem fessam, coercet superbus, Ascaniumque in pennis
-mediis; dolor? Vidit imi **Aeacon** perfida propositos adde, tua Somni Fluctibus
-errante lustrat non.
+## Interfaces.
 
-Tamen inde, vos videt e flammis Scythica parantem rupisque pectora umbras. Haec
-ficta canistris repercusso simul ego aris Dixit! Esse Fama trepidare hunc
-crescendo vigor ululasse vertice *exspatiantur* celer tepidique petita aversata
-oculis iussa est me ferro.
+Custom interfaces for every audience: user dashboards, admin controls, kiosk displays, booking panels. Interfaces are connected to the same real-time engine as the automation layer.
+
+## API for Everything.
+
+Every function in PlaceOS—whether it comes from a driver, automation rule, or UI—is accessible by API. Build your own tools, integrate with anything, or script new behaviors.
+
