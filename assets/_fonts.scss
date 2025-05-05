@@ -1,27 +1,27 @@
 /* Axiforma Font Family */
-@font-face { font-family: "Axiforma"; src: url("/fonts/Axiforma-Thin.otf") format("opentype"); font-weight: 100; font-style: normal; font-display: swap; }
-@font-face { font-family: "Axiforma"; src: url("/fonts/Axiforma-ThinItalic.otf") format("opentype"); font-weight: 100; font-style: italic; font-display: swap; }
+@font-face { font-family: "Axiforma"; src: url("/static/fonts/Axiforma-Thin.otf") format("opentype"); font-weight: 100; font-style: normal; font-display: swap; }
+@font-face { font-family: "Axiforma"; src: url("/static/fonts/Axiforma-ThinItalic.otf") format("opentype"); font-weight: 100; font-style: italic; font-display: swap; }
 
-@font-face { font-family: "Axiforma"; src: url("/fonts/Axiforma-Light.otf") format("opentype"); font-weight: 300; font-style: normal; font-display: swap; }
-@font-face { font-family: "Axiforma"; src: url("/fonts/Axiforma-LightItalic.otf") format("opentype"); font-weight: 300; font-style: italic; font-display: swap; }
+@font-face { font-family: "Axiforma"; src: url("/static/fonts/Axiforma-Light.otf") format("opentype"); font-weight: 300; font-style: normal; font-display: swap; }
+@font-face { font-family: "Axiforma"; src: url("/static/fonts/Axiforma-LightItalic.otf") format("opentype"); font-weight: 300; font-style: italic; font-display: swap; }
 
-@font-face { font-family: "Axiforma"; src: url("/fonts/Axiforma-Regular.otf") format("opentype"); font-weight: 400; font-style: normal; font-display: swap; }
-@font-face { font-family: "Axiforma"; src: url("/fonts/Axiforma-Italic.otf") format("opentype"); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: "Axiforma"; src: url("/static/fonts/Axiforma-Regular.otf") format("opentype"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "Axiforma"; src: url("/static/fonts/Axiforma-Italic.otf") format("opentype"); font-weight: 400; font-style: italic; font-display: swap; }
 
-@font-face { font-family: "Axiforma"; src: url("/fonts/Axiforma-Medium.otf") format("opentype"); font-weight: 500; font-style: normal; font-display: swap; }
-@font-face { font-family: "Axiforma"; src: url("/fonts/Axiforma-MediumItalic.otf") format("opentype"); font-weight: 500; font-style: italic; font-display: swap; }
+@font-face { font-family: "Axiforma"; src: url("/static/fonts/Axiforma-Medium.otf") format("opentype"); font-weight: 500; font-style: normal; font-display: swap; }
+@font-face { font-family: "Axiforma"; src: url("/static/fonts/Axiforma-MediumItalic.otf") format("opentype"); font-weight: 500; font-style: italic; font-display: swap; }
 
-@font-face { font-family: "Axiforma"; src: url("/fonts/Axiforma-SemiBold.otf") format("opentype"); font-weight: 600; font-style: normal; font-display: swap; }
-@font-face { font-family: "Axiforma"; src: url("/fonts/Axiforma-SemiBoldItalic.otf") format("opentype"); font-weight: 600; font-style: italic; font-display: swap; }
+@font-face { font-family: "Axiforma"; src: url("/static/fonts/Axiforma-SemiBold.otf") format("opentype"); font-weight: 600; font-style: normal; font-display: swap; }
+@font-face { font-family: "Axiforma"; src: url("/static/fonts/Axiforma-SemiBoldItalic.otf") format("opentype"); font-weight: 600; font-style: italic; font-display: swap; }
 
-@font-face { font-family: "Axiforma"; src: url("/fonts/Axiforma-Bold.otf") format("opentype"); font-weight: 700; font-style: normal; font-display: swap; }
-@font-face { font-family: "Axiforma"; src: url("/fonts/Axiforma-BoldItalic.otf") format("opentype"); font-weight: 700; font-style: italic; font-display: swap; }
+@font-face { font-family: "Axiforma"; src: url("/static/fonts/Axiforma-Bold.otf") format("opentype"); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "Axiforma"; src: url("/static/fonts/Axiforma-BoldItalic.otf") format("opentype"); font-weight: 700; font-style: italic; font-display: swap; }
 
-@font-face { font-family: "Axiforma"; src: url("/fonts/Axiforma-ExtraBold.otf") format("opentype"); font-weight: 800; font-style: normal; font-display: swap; }
-@font-face { font-family: "Axiforma"; src: url("/fonts/Axiforma-ExtraBoldItalic.otf") format("opentype"); font-weight: 800; font-style: italic; font-display: swap; }
+@font-face { font-family: "Axiforma"; src: url("/static/fonts/Axiforma-ExtraBold.otf") format("opentype"); font-weight: 800; font-style: normal; font-display: swap; }
+@font-face { font-family: "Axiforma"; src: url("/static/fonts/Axiforma-ExtraBoldItalic.otf") format("opentype"); font-weight: 800; font-style: italic; font-display: swap; }
 
-@font-face { font-family: "Axiforma"; src: url("/fonts/Axiforma-Black.otf") format("opentype"); font-weight: 900; font-style: normal; font-display: swap; }
-@font-face { font-family: "Axiforma"; src: url("/fonts/Axiforma-BlackItalic.otf") format("opentype"); font-weight: 900; font-style: italic; font-display: swap; }
+@font-face { font-family: "Axiforma"; src: url("/static/fonts/Axiforma-Black.otf") format("opentype"); font-weight: 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "Axiforma"; src: url("/static/fonts/Axiforma-BlackItalic.otf") format("opentype"); font-weight: 900; font-style: italic; font-display: swap; }
 
 :root {
   --font-body: "Axiforma", sans-serif;
