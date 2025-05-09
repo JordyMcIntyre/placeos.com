@@ -6,8 +6,8 @@ html {
 
 body {
   min-width: $body-min-width;
-  color: var(--body-font-color);
-  background: var(--body-background);
+  color: var(--dark);
+  background: var(--light);
 
   letter-spacing: 0.33px;
   font-weight: $body-font-weight;
@@ -31,7 +31,7 @@ h5 {
 
 a {
   text-decoration: none;
-  color: var(--color-link);
+  color: var(--primary);
 }
 
 img {
@@ -198,8 +198,8 @@ body[dir="rtl"] .book-menu {
     border: 0;
     border-radius: $border-radius;
 
-    background: var(--gray-100);
-    color: var(--body-font-color);
+    background: var(--lightgray);
+    color: var(--dark);
 
     &:required + .book-search-spinner {
       display: block;
